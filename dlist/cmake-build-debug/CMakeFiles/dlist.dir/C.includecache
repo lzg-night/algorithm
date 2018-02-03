@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xiaozhi/CLionProjects/dlist/cmake-build-debug/dlist.c
+string.h
+/home/xiaozhi/CLionProjects/dlist/cmake-build-debug/string.h
+stdlib.h
+/home/xiaozhi/CLionProjects/dlist/cmake-build-debug/stdlib.h
+stdio.h
+/home/xiaozhi/CLionProjects/dlist/cmake-build-debug/stdio.h
+dlist.h
+/home/xiaozhi/CLionProjects/dlist/cmake-build-debug/dlist.h
+
+/home/xiaozhi/CLionProjects/dlist/cmake-build-debug/dlist.h
+stdlib.h
+/home/xiaozhi/CLionProjects/dlist/cmake-build-debug/stdlib.h
+
