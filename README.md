@@ -1,3 +1,3 @@
 # algorithm
-#list是单链表的实现
-#dlist是双链表的实现
+#list是单链表的实现 <br />
+#dlist是双链表的实现 <br />
